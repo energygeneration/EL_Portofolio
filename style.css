@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Oxygen&family=Roboto&display=swap');
+*
+{
+    font-family: 'Roboto', sans-serif !important;
+}
+h1{
+    
+    font-size:5rem;
+    font-weight: 700;
+
+}
+.border-color {
+    border-color: #541169  !important;
+   
+}
+.bg-color{
+    background-color:#6d4b14 !important ;
+
+}
